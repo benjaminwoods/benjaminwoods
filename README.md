@@ -16,4 +16,4 @@ I'm currently learning:
 - Nim
 
 You can reach me on here, or on:
-- 🐘: @soya@mastodon.online
+- 🐘: `@soya@mastodon.online`
